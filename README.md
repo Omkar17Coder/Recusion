@@ -1,2 +1,3 @@
 # Recusion
-Contains the solutions of the problems solve done recursion.
+Contains the solutions of the problems solved on recursion.
+
